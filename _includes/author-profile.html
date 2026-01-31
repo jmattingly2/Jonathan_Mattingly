@@ -1,7 +1,9 @@
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
@@ -14,7 +16,7 @@
     {% endif %}
   </div>
 
-  <h3 class="author__name" style="text-align: center; display: block; width: 100%; margin-top: 15px;">{{ author.name }}</h3>
+  <h3 class="author__name" style="text-align: center; display: block; width: 100%; clear: both; margin-top: 15px;">{{ author.name }}</h3>
 
   <div class="author__content">
     {% if author.pronouns %}

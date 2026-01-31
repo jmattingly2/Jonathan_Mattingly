@@ -24,8 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Headshot.JPG"
-  name             : "name: <h1>Jonathan R. Mattingly</h1>"
-  bio              : "PhD Candidate - York Lab"
+  name             : "name: <h3>Jonathan R. Mattingly</h3>"
+  bio              : "<h4>PhD Candidate - York Lab</h4>"
   employer         : "University of Washington"
   location         : "Seattle, WA"
   email            : "jmatt2@uw.edu" 

@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Immunology, The University of Washington, 2029 (expected)
+    * GPA: 3.93
+* B.S. in Microbiology, The University of Iowa, 2021
+    * with university honors and with highest distinction
+    * with honors in Microbiology
+    * Minors: Spanish, Anthropology
+    * GPA: 4.02 
 
 Work experience
 ======

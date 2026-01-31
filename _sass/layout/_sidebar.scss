@@ -165,10 +165,11 @@
 }
 
 .author__content {
-  display: table-cell;
+  display: block;
+   text-align: center;
   vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  padding-left: 0px;
+  padding-right: 0px;
   line-height: 1;
 
   @include breakpoint($large) {

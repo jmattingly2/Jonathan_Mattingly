@@ -322,3 +322,16 @@
     }
   }
 }
+/* Centers only the name with the h1 tag */
+.author__name h1 {
+  text-align: center !important;
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensures the bio remains left-aligned */
+.author__bio {
+  text-align: left !important;
+}

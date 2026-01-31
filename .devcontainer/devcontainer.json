@@ -12,9 +12,4 @@
     "workspaceFolder": "/usr/src/app",
     "remoteUser": "vscode",
     "forwardPorts": [4000] // Add port forwarding
-    "features": {
-     // ...
-     "ghcr.io/devcontainers/features/terraform:1": {},
-     // ...
- }
 }

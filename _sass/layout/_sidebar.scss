@@ -322,16 +322,19 @@
     }
   }
 }
-/* Centers only the name with the h1 tag */
-.author__name h1 {
-  text-align: center !important;
-  display: block;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+/* Force the container to stop acting like a table */
+.author__content {
+  display: block !important;
+  width: 100% !important;
+  padding: 0 !important;
+  text-align: left; /* Keep the bio/links left-aligned */
 }
 
-/* Ensures the bio remains left-aligned */
-.author__bio {
-  text-align: left !important;
+/* Specifically target the H1 name for centering */
+.author__name h1 {
+  display: block !important;
+  text-align: center !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }

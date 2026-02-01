@@ -74,7 +74,7 @@
   margin-bottom: 20px !important;
 }
 
-/* --- MOBILE SPECIFIC STYLES (Centering & Fixed Overlap) --- */
+/* --- MOBILE SPECIFIC STYLES: The Final Centering Fix --- */
 
 @media (max-width: 600px) {
   .sidebar {
@@ -88,40 +88,49 @@
   .author__content {
     text-align: center !important;
     width: 100% !important;
-    /* Pushes everything inside content down away from the photo */
-    margin-top: 10px !important; 
   }
 
+  /* Centering the Bio and pushing down the links */
   .author__bio {
-    /* Ensures the bio has space before the links start */
-    margin-bottom: 25px !important; 
-    display: block !important;
+    margin-bottom: 30px !important; 
+    text-align: center !important;
   }
 
-  /* Force links to show, center them, and stop them from overlapping */
+  /* THE FIX: Resetting the Link List container */
   .author__urls-wrapper {
     display: block !important;
+    position: relative !important;
     width: 100% !important;
-    position: relative !important; /* Fixes the "floating/overlapping" issue */
-    margin-top: 20px !important;  /* Adds space between Bio and Links */
-    padding-top: 10px !important;
+    margin: 0 !important;
+    padding: 0 !important; /* Removes hidden indents */
   }
 
   .author__urls-wrapper button {
-    display: none !important; /* Keep "Follow" button hidden */
+    display: none !important;
   }
 
+  /* Force the UL to have no padding and center its flex items */
   .author__urls {
     display: flex !important;
     flex-direction: column !important;
-    align-items: center !important;
-    padding-left: 0 !important;
-    margin-left: 0 !important;
+    align-items: center !important; /* This centers the items horizontally */
+    justify-content: center !important;
+    padding: 0 !important;  /* CRITICAL: Removes the default bullet indent */
+    margin: 0 !important;
     list-style: none !important;
+    width: 100% !important;
   }
 
   .author__urls li {
-    margin-bottom: 10px !important;
-    font-size: 1.1rem !important;
+    width: 100% !important;
+    text-align: center !important;
+    margin-bottom: 12px !important;
+    margin-left: 0 !important; /* Extra insurance */
+  }
+
+  .author__urls li a {
+    justify-content: center !important; /* Centers icon + text together */
+    display: flex !important;
+    align-items: center !important;
   }
 }

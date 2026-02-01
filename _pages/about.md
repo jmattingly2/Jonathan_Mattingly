@@ -15,5 +15,5 @@ On this site, I keep a list of my publications, presentations, and my CV. [PDF v
 
 Inquiries
 ======
-I'd love to connect! If you have questions about myself, my work, or are interested in collaborating, feel free to [email me](jmatt2@uw.edu) or connect on LinkedIn.
+I'd love to connect! If you have questions about myself, my work, or are interested in collaborating, feel free to [email me](jmatt2@uw.edu) or connect on [LinkedIn](www.linkedin.com/in/jonathan-mattingly-b39866195).
 

@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 <br><br> 
+
 Bio
 ======
 I'm a third-year Immunology PhD candidate in the York lab at the University of Washington. My thesis work is focused on understanding how lipid post-translational modifications to proteins can affect the inflammatory and anti-inflammatory immune response with the ultimate goal of identifying druggable targets for therapeutic interventions.<br><br>

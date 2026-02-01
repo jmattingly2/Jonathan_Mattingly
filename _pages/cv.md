@@ -29,15 +29,15 @@ Advisor: Autumn York, PhD<br>
 
 * __Research Analyst__, The University of Chicago <span style="float:right;">2021 – 2023</span><br>
 Advisor: Albert Bendelac, MD, PhD<br>
-  * Designed 30+ color flow cytometry panel to probe for purturbations of immune cell population in an immunoglobulin A (IgA) deficient model
-  * Optomized swiss roll tissue preparation and immunofluorescence staining protocol to visualize differences in immune cell composition of the small intestine
-  * Cultured and administered aerobic and anaerobic baterial isolates and consortia to identify specific microbes resulting in immune compartment dysbiosis
+  * Designed 30+ color flow cytometry panel to probe for perturbations of immune cell populations in an immunoglobulin A (IgA) deficient model
+  * Optimized swiss roll tissue preparation and immunofluorescence staining protocol to visualize differences in immune cell composition of the small intestine
+  * Cultured and administered aerobic and anaerobic bacterial isolates and consortia to identify specific microbes resulting in immune compartment dysbiosis
   * Prepared 16s sequencing to identify bacterial populations
-  * Prepared 10x sequencing to identiy gene expression changes in the immune cells from IgA deficient hosts<br><br>
+  * Prepared 10x sequencing to identify gene expression changes in the immune cells from IgA deficient hosts<br><br>
     
 * __Undergraduate Researcher__, The University of Iowa <span style="float:right;">2018 – 2021</span><br>
 Advisor: Kevin Legge, PhD<br>
-  * Purified nucleocapsid protein (NP) from influenza A virus to use in ELISAs to probe for anti-NP antibodies and antigen persistance in a universal influenza vaccine model<br>
+  * Purified nucleocapsid protein (NP) from influenza A virus to use in ELISAs to probe for anti-NP antibodies and antigen persistence in a universal influenza vaccine model<br>
   <u>This work resulted in an honors thesis</u>
 
 Peer-Reviewed Publications

@@ -40,11 +40,23 @@ Advisor: Kevin Legge, PhD<br>
   * Purified nucleocapsid protein (NP) from influenza A virus to use in ELISAs to probe for anti-NP antibodies and antigen persistance in a universal influenza vaccine model<br>
   <u>This work resulted in an honors thesis</u>
 
-Publications
+Peer-Reviewed Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Earley ZM, Lisicka W, Sifakis JJ, Erickson SA, __Mattingly JR__, Wu-Woods NJ, Krishnamurthy SR, Ismagilov RF, Riesenfeld SJ, Belkaid Y, Cyster JG, Bendelac A, Jabri B. (2025) Immunoglobulin A controls enteric virus colonization to preserve intestinal immune homeostasis. Cell host & microbe, 33(4), 498–511.e10. [PMID: 40154490](https://pubmed.ncbi.nlm.nih.gov/40154490/)<br><br>
+
+__Mattingly__, JR, Wu, A, & York, AG (2025). Regulation of Adaptive Immunity by Lipid Post-translational Modifications. Immune network, 25(1), e11. [PMID: 40078786](https://pubmed.ncbi.nlm.nih.gov/40078786/)
+
+Pre-Print Articles
+======
+
+Steach, HR, York, AG, __Mattingly, JR__, Skadow, MH, Chen, S, Zhao, J, Williams, KJ, Zhou, Q, Hsieh, WY, Brewer, JR, Qu, R, Shyer, JA, Harman, C, Sefik, E, Mowell, WK, Bailis, W, Cui, C, Kluger, Y, Bensinger, SJ, Craft, J, & Flavell, RA. (2024). IL-4 Licenses B Cell Activation Through Cholesterol Synthesis. [bioRxiv: the preprint server for biology, 2024.05.13.593964](https://www.biorxiv.org/content/10.1101/2024.05.13.593964v1.full).
+
+Abstracts
+======
+__Mattingly JR__, Wu A, Li M, York AG. (2025) “Defining the Role of de novo Lipid Synthesis in B cell Responses” KAI 2025, Incheon, South Korea.
+
+Earley ZM, __Mattingly JR__, Lisicka W, Jabri B, Bendelac A. (2022) “Immunoglobulin A Controls the Microbiota from Driving Dysregulated Host Adaptive Immune Responses” Cytokines 2022 & ILC4 2022, Kailuna Kona, Hawaii USA.
 
 Presentations
 ======
@@ -62,6 +74,11 @@ __Mattingly JR__. 2021 May “Contribution of Nucleocapsid Protein to Antibody I
 
 Teaching Experience
 ======
+
+* __Graduate Teaching Assistant__, The University of Washington	<span style="float:right;">2024</span><br>
+  * Facilitated review sessions for 20 undergraduate students in an introductory Immunology course 
+  * Utilized active learning strategies to engage students and promote peer-to-peer learning<br><br>
+
 * __Undergraduate Teaching Assistant__, The University of Iowa	<span style="float:right;">2021</span><br>
   * Lead instruction of 160 students in an introductory Microbiology laboratory course 
   * Hosted office hours to address student questions<br><br>

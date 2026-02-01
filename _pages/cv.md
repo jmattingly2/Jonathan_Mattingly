@@ -20,21 +20,23 @@ Education
 
 Research Experience
 ======
-* __PhD Candidate__, The University of Washington <span style="float:right;">2023 – Present</span><br>
-Advisor: Autumn York, PhD
+* __PhD Candidate__, The University of Washington <span style="float:right;">2023 – Present</span><br><br>
+Advisor: Autumn York, PhD<br>
     * Developing probe-based biochemical labeling assays to identify the targets and function of lipid post-translational modifications to proteins in immune cells
     * Using bioinformatic, biochemical, genetic, and molecular biology techniques to identify lipid post-translational modifications critical for the initiation and resolution of inflammatory immune programs
 
-* __Research Analyst__, The University of Chicago <span style="float:right;">2021 – 2023</span><br>
-Advisor: Albert Bendelac, MD, PhD
-  * Designed 30+ color flow cytometry panel to probe for immune compartment differences in immunoglobulin A (IgA) deficient model
-  * Optomized swiss roll preparation and immunofluorescence staining protocol to visualize differences in immune cell composition of the small intestine
-  * 
+* __Research Analyst__, The University of Chicago <span style="float:right;">2021 – 2023</span><br><br>
+Advisor: Albert Bendelac, MD, PhD<br>
+  * Designed 30+ color flow cytometry panel to probe for purturbations of immune cell population in an immunoglobulin A (IgA) deficient model
+  * Optomized swiss roll tissue preparation and immunofluorescence staining protocol to visualize differences in immune cell composition of the small intestine
+  * Cultured and administered aerobic and anaerobic baterial isolates and consortia to identify specific microbes resulting in immune compartment dysbiosis
+  * Prepared 16s sequencing to identify bacterial populations
+  * Prepared 10x sequencing to identiy gene expression changes in the immune cells from IgA deficient hosts
     
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* __Undergraduate Researcher__, The University of Iowa <span style="float:right;">2018 – 2021</span><br><br>
+Advisor: Kevin Legge, PhD<br>
+  * Purified nucleocapsid protein (NP) from influenza A virus to use in ELISAs to probe for anti-NP antibodies and antigen persistance in a universal influenza vaccine model<br>
+  This work resulted in an honors thesis
   
 Skills
 ======

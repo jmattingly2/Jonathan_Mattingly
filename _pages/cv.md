@@ -25,7 +25,7 @@ Research Experience
 Advisor: Autumn York, PhD<br>
     * Developing probe-based biochemical labeling assays to identify the targets and function of lipid post-translational modifications to proteins in immune cells
     * Using bioinformatic, biochemical, genetic, and molecular biology techniques to identify lipid post-translational modifications critical for the initiation and resolution of inflammatory immune programs
-    * Optimization of a new approach for in vivo identification of vascular surveilling cDC1 and NK cells using intravenous delivery of anti-XCR1 and anti-NK1.1 antibodies
+    * Optimized a new approach for in vivo identification of vascular surveilling cDC1 and NK cells using intravenous delivery of anti-XCR1 and anti-NK1.1 antibodies
     * Employed in vivo staining and confocal microscopy techniques to identify and live image tumor-cDC1 and tumor-cDC1-NK cell interactions in live lung tissue<br><br>
 
 * __Research Analyst__, The University of Chicago <span style="float:right;">2021 – 2023</span><br>

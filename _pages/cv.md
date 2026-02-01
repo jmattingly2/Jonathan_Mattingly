@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<br>
 
 Education
 ======
@@ -43,14 +44,14 @@ Advisor: Kevin Legge, PhD<br>
 Peer-Reviewed Publications
 ======
 
-Earley ZM, Lisicka W, Sifakis JJ, Erickson SA, __Mattingly JR__, Wu-Woods NJ, Krishnamurthy SR, Ismagilov RF, Riesenfeld SJ, Belkaid Y, Cyster JG, Bendelac A, Jabri B. (2025) Immunoglobulin A controls enteric virus colonization to preserve intestinal immune homeostasis. Cell host & microbe, 33(4), 498–511.e10. [PMID: 40154490](https://pubmed.ncbi.nlm.nih.gov/40154490/)[PDF](/files/Immunoglobulin A controls intestinal virus colonization to preserve immune homeostasis.pdf)<br>
+Earley ZM, Lisicka W, Sifakis JJ, Erickson SA, __Mattingly JR__, Wu-Woods NJ, Krishnamurthy SR, Ismagilov RF, Riesenfeld SJ, Belkaid Y, Cyster JG, Bendelac A, Jabri B. (2025) Immunoglobulin A controls enteric virus colonization to preserve intestinal immune homeostasis. Cell host & microbe, 33(4), 498–511.e10. [PMID: 40154490](https://pubmed.ncbi.nlm.nih.gov/40154490/) [PDF](/files/Immunoglobulin A controls intestinal virus colonization to preserve immune homeostasis.pdf)<br>
 
 __Mattingly__, JR, Wu, A, & York, AG (2025). Regulation of Adaptive Immunity by Lipid Post-translational Modifications. Immune network, 25(1), e11. [PMID: 40078786](https://pubmed.ncbi.nlm.nih.gov/40078786/) [PDF](/files/Regulation of Adaptive Immunity by Lipid Post-translational Modifications.pdf)
 
 Pre-Print Articles
 ======
 
-Steach, HR, York, AG, __Mattingly, JR__, Skadow, MH, Chen, S, Zhao, J, Williams, KJ, Zhou, Q, Hsieh, WY, Brewer, JR, Qu, R, Shyer, JA, Harman, C, Sefik, E, Mowell, WK, Bailis, W, Cui, C, Kluger, Y, Bensinger, SJ, Craft, J, & Flavell, RA. (2024). IL-4 Licenses B Cell Activation Through Cholesterol Synthesis. [bioRxiv: the preprint server for biology, 2024.05.13.593964](https://www.biorxiv.org/content/10.1101/2024.05.13.593964v1.full).[PDF](/files/IL-4 Licenses B Cell Activation Through Cholesterol Synthesis.pdf)
+Steach, HR, York, AG, __Mattingly, JR__, Skadow, MH, Chen, S, Zhao, J, Williams, KJ, Zhou, Q, Hsieh, WY, Brewer, JR, Qu, R, Shyer, JA, Harman, C, Sefik, E, Mowell, WK, Bailis, W, Cui, C, Kluger, Y, Bensinger, SJ, Craft, J, & Flavell, RA. (2024). IL-4 Licenses B Cell Activation Through Cholesterol Synthesis. [bioRxiv: the preprint server for biology, 2024.05.13.593964](https://www.biorxiv.org/content/10.1101/2024.05.13.593964v1.full). [PDF](/files/IL-4 Licenses B Cell Activation Through Cholesterol Synthesis.pdf)
 
 Abstracts
 ======

@@ -74,7 +74,7 @@
   margin-bottom: 20px !important;
 }
 
-/* --- MOBILE SPECIFIC STYLES: The Final Centering Fix --- */
+/* --- MOBILE: Horizontal Row of Buttons --- */
 
 @media (max-width: 600px) {
   .sidebar {
@@ -85,52 +85,50 @@
     width: 100% !important;
   }
 
-  .author__content {
-    text-align: center !important;
-    width: 100% !important;
-  }
-
-  /* Centering the Bio and pushing down the links */
+  /* Space out the Bio from the buttons */
   .author__bio {
-    margin-bottom: 30px !important; 
-    text-align: center !important;
+    margin-bottom: 20px !important;
+    display: block !important;
   }
 
-  /* THE FIX: Resetting the Link List container */
   .author__urls-wrapper {
     display: block !important;
-    position: relative !important;
     width: 100% !important;
-    margin: 0 !important;
-    padding: 0 !important; /* Removes hidden indents */
   }
 
   .author__urls-wrapper button {
-    display: none !important;
+    display: none !important; /* Keep Follow button hidden */
   }
 
-  /* Force the UL to have no padding and center its flex items */
+  /* This creates the horizontal row */
   .author__urls {
     display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important; /* This centers the items horizontally */
-    justify-content: center !important;
-    padding: 0 !important;  /* CRITICAL: Removes the default bullet indent */
+    flex-direction: row !important; /* Side by side */
+    justify-content: center !important; /* Centered in the row */
+    flex-wrap: wrap !important; /* Wrap to next line if screen is tiny */
+    padding: 0 !important;
     margin: 0 !important;
     list-style: none !important;
-    width: 100% !important;
   }
 
+  /* Turn each list item into a spaced button */
   .author__urls li {
-    width: 100% !important;
-    text-align: center !important;
-    margin-bottom: 12px !important;
-    margin-left: 0 !important; /* Extra insurance */
+    margin: 5px 8px !important; /* Space between buttons */
   }
 
+  /* Button Styling */
   .author__urls li a {
-    justify-content: center !important; /* Centers icon + text together */
     display: flex !important;
+    padding: 8px 12px !important;
+    border: 1px solid #ddd !important; /* Light border */
+    border-radius: 8px !important;   /* Rounded corners */
+    font-size: 0.9rem !important;
+    text-decoration: none !important;
+    background-color: #f9f9f9 !important; /* Light background */
+    color: #333 !important;
     align-items: center !important;
   }
+
+  /* Optional: Hide the text on mobile to show ONLY icons if it's too crowded */
+  /* .author__urls li a span { display: none; } */
 }

@@ -43,7 +43,7 @@ Advisor: Kevin Legge, PhD<br>
 Peer-Reviewed Publications
 ======
 
-Earley ZM, Lisicka W, Sifakis JJ, Erickson SA, __Mattingly JR__, Wu-Woods NJ, Krishnamurthy SR, Ismagilov RF, Riesenfeld SJ, Belkaid Y, Cyster JG, Bendelac A, Jabri B. (2025) Immunoglobulin A controls enteric virus colonization to preserve intestinal immune homeostasis. Cell host & microbe, 33(4), 498–511.e10. [PMID: 40154490](https://pubmed.ncbi.nlm.nih.gov/40154490/)<br><br>
+Earley ZM, Lisicka W, Sifakis JJ, Erickson SA, __Mattingly JR__, Wu-Woods NJ, Krishnamurthy SR, Ismagilov RF, Riesenfeld SJ, Belkaid Y, Cyster JG, Bendelac A, Jabri B. (2025) Immunoglobulin A controls enteric virus colonization to preserve intestinal immune homeostasis. Cell host & microbe, 33(4), 498–511.e10. [PMID: 40154490](https://pubmed.ncbi.nlm.nih.gov/40154490/)<br>
 
 __Mattingly__, JR, Wu, A, & York, AG (2025). Regulation of Adaptive Immunity by Lipid Post-translational Modifications. Immune network, 25(1), e11. [PMID: 40078786](https://pubmed.ncbi.nlm.nih.gov/40078786/)
 
@@ -124,7 +124,7 @@ Department of Immunology, The University of Washington
 
 Laboratory Skills
 ======
-* Advanced Cell culture
+* Advanced cell culture
 * Confocal microscopy
 * Live-cell imaging
 * Flow cytometry

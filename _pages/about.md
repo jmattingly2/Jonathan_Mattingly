@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jonathan Mattingly's Academic Portfolio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,11 @@ redirect_from:
  
 Bio
 ======
-I am a third-year Immunology PhD candidate in the York lab at the University of Washington.<br><br>
+I'm a third-year Immunology PhD candidate in the York lab at the University of Washington. My thesis work is focused on understanding the role of lipid post-translational modifications to proteins and how they can affect the inflammatory and anti-inflammatory immune response with the ultimate goal of identifying druggable targets for therapeutic interventions.<br><br>
 
-On this site, I keep a list of my publications, presentations, and my [CV]
+On this site, I keep a list of my publications, presentations, and my CV. [PDF version](Jonathan Mattingly CV_20260123.pdf)
 
 Inquiries
 ======
-If you have questions about my work or are interested in collaborating, feel free to [contact me](jmatt2@uw.edu)!
+I'd love to connect! If you have questions about myself, my work, or are interested in collaborating, feel free to [email me](jmatt2@uw.edu) or connect on LinkedIn.
 

@@ -27,7 +27,7 @@ author:
   name             : "Jonathan Mattingly"
   bio              : "PhD Candidate - York Lab"
   employer         : "University of Washington"
-  location         : "Seattle, WA"
+  #location         : ""
   email            : "jmatt2@uw.edu" 
 
   # Academic websites

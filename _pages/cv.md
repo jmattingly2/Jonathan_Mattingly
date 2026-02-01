@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,17 +10,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Immunology, The University of Washington, 2029 (expected)
+* PhD in Immunology, The University of Washington <span style="float:right;">2029 (expected)</span>
     * GPA: 3.93
-* B.S. in Microbiology, The University of Iowa, 2021
+* BS in Microbiology, The University of Iowa <span style="float:right;">2021</span>
     * with university honors and with highest distinction
     * with honors in Microbiology
     * Minors: Spanish, Anthropology
     * GPA: 4.02 
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* PhD Candidate, The University of Washington
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users

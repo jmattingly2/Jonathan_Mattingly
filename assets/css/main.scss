@@ -96,3 +96,19 @@
   }
 }
 
+/* Force sidebar links to show on mobile instead of hiding behind 'Follow' */
+@media (max-width: 600px) {
+  .author__urls-wrapper {
+    display: block !important;
+  }
+
+  .author__urls {
+    display: block !important;
+    position: relative !important;
+  }
+
+  /* This hides the "Follow" button since the links are now visible */
+  .author__urls-wrapper button {
+    display: none !important;
+  }
+}

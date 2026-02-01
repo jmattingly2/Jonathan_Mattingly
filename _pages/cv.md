@@ -20,16 +20,17 @@ Education
 
 Research Experience
 ======
-* __PhD Candidate__, The University of Washington <span style="float:right;">2023 – Present</span>
-* Advisor: Autumn York, PhD
+* __PhD Candidate__, The University of Washington <span style="float:right;">2023 – Present</span><br>
+Advisor: Autumn York, PhD
     * Developing probe-based biochemical labeling assays to identify the targets and function of lipid post-translational modifications to proteins in immune cells
     * Using bioinformatic, biochemical, genetic, and molecular biology techniques to identify lipid post-translational modifications critical for the initiation and resolution of inflammatory immune programs
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
+* __Research Analyst__, The University of Chicago <span style="float:right;">2021 – 2023</span><br>
+Advisor: Albert Bendelac, MD, PhD
+  * Designed 30+ color flow cytometry panel to probe for immune compartment differences in immunoglobulin A (IgA) deficient model
+  * Optomized swiss roll preparation and immunofluorescence staining protocol to visualize differences in immune cell composition of the small intestine
+  * 
+    
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues

@@ -21,9 +21,9 @@ Education
 Research Experience
 ======
 * __PhD Candidate__, The University of Washington <span style="float:right;">2023 – Present</span>
-Advisor: Autumn York, PhD
-  * Developing probe-based biochemical labeling assays to identify the targets and function of lipid post-translational modifications to proteins in immune cells
-  * Using bioinformatic, biochemical, genetic, and molecular biology techniques to identify lipid post-translational modifications critical for the initiation and resolution of inflammatory immune programs
+* Advisor: Autumn York, PhD
+    * Developing probe-based biochemical labeling assays to identify the targets and function of lipid post-translational modifications to proteins in immune cells
+    * Using bioinformatic, biochemical, genetic, and molecular biology techniques to identify lipid post-translational modifications critical for the initiation and resolution of inflammatory immune programs
 
 * Fall 2015: Research Assistant
   * GitHub University

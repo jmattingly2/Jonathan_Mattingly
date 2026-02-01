@@ -24,6 +24,8 @@ Research Experience
 Advisor: Autumn York, PhD<br>
     * Developing probe-based biochemical labeling assays to identify the targets and function of lipid post-translational modifications to proteins in immune cells
     * Using bioinformatic, biochemical, genetic, and molecular biology techniques to identify lipid post-translational modifications critical for the initiation and resolution of inflammatory immune programs
+    * Optimization of a new approach for in vivo identification of vascular surveilling cDC1 and NK cells using intravenous delivery of anti-XCR1 and anti-NK1.1 antibodies
+    * Employed in vivo staining and confocal microscopy techniques to identify and live image tumor-cDC1 and tumor-cDC1-NK cell interactions in live lung tissue<br>
 
 * __Research Analyst__, The University of Chicago <span style="float:right;">2021 – 2023</span><br><br>
 Advisor: Albert Bendelac, MD, PhD<br>
@@ -31,13 +33,68 @@ Advisor: Albert Bendelac, MD, PhD<br>
   * Optomized swiss roll tissue preparation and immunofluorescence staining protocol to visualize differences in immune cell composition of the small intestine
   * Cultured and administered aerobic and anaerobic baterial isolates and consortia to identify specific microbes resulting in immune compartment dysbiosis
   * Prepared 16s sequencing to identify bacterial populations
-  * Prepared 10x sequencing to identiy gene expression changes in the immune cells from IgA deficient hosts
+  * Prepared 10x sequencing to identiy gene expression changes in the immune cells from IgA deficient hosts<br>
     
 * __Undergraduate Researcher__, The University of Iowa <span style="float:right;">2018 – 2021</span><br><br>
 Advisor: Kevin Legge, PhD<br>
   * Purified nucleocapsid protein (NP) from influenza A virus to use in ELISAs to probe for anti-NP antibodies and antigen persistance in a universal influenza vaccine model<br>
-  This work resulted in an honors thesis
-  
+  <u>This work resulted in an honors thesis</u>
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Presentations
+======
+__Mattingly JR__, Wu A, Li M, York AG. 2025 October “Defining the Role of de novo Lipid Synthesis in B cell Responses” KAI 2025, Incheon, South Korea. Poster.<br>
+
+__Mattingly JR__, Wu A, Li M, York AG. 2025 September “Defining the role of de novo cholesterol and fatty acid synthesis in B cell responses” University of Washington – Department of Immunology Retreat, Seattle, WA. Poster.<br> 
+
+__Mattingly JR__, Wu A, Li M, York AG. 2025 September “Defining the role of de novo cholesterol and fatty acid synthesis in B cell responses” University of Washington – Department of Immunology Retreat, Seattle, WA. Lightning Talk.<br>
+
+__Mattingly JR__, Wu A, Li M, York AG. 2024 September “Elucidating the role of S-palmitoylation in B cells” University of Washington – Department of Immunology Retreat, Leavenworth, WA. Poster.<br> 
+
+__Mattingly JR__. 2024 September “S-palmitoylation in B cells: Does it do anything?” University of Washington – Department of Immunology Retreat, Leavenworth, WA. Lightning Talk.<br>
+
+__Mattingly JR__. 2021 May “Contribution of Nucleocapsid Protein to Antibody Immunity after Intranasal Polyanhydride Nanoparticle Vaccination against Influenza A Virus” Microbiology Honors Symposium, Iowa City, IA.<br>
+
+Teaching Experience
+======
+* __Undergraduate Teaching Assistant__, The University of Iowa	<span style="float:right;">2021</span><br><br>
+  * Lead instruction of 160 students in an introductory Microbiology laboratory course 
+  * Hosted office hours to address student questions
+
+* __College Transition Workshop Leader__, The University of Iowa	<span style="float:right;">2019-2020</span><br><br>
+  * Facilitated group learning sessions for 20 first-year students in General Chemistry
+  * Designed daily lesson plans and practice questions
+
+* __Biology Lab Intern__, The University of Iowa	<span style="float:right;">2019</span><br><br>
+  * Facilitated introductory Biology course of 24 students
+
+Scholarships & Awards
+======
+* Travel Awardee <span style="float:right;">2025</span><br>
+  Korean Association of Immunologists (KAI) Conference
+
+* Honorable Mention <span style="float:right;">2025</span><br>
+  NSF GRFP
+	
+* Old Gold Scholarship <span style="float:right;">2017-2021</span><br>
+The University of Iowa, merit-based scholarship
+
+* Invitation <span style="float:right;">2021</span><br>
+Phi Beta Kappa Honor Society, The University of Iowa
+
+* President’s List <span style="float:right;">(Spring 2020–Spring 2021, 3 semesters)</span><br>
+
+* Dean’s List <span style="float:right;">(Fall 2017–Spring 2021, 8 semesters)</span><br> 
+
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
 Skills
 ======
 * Skill 1
@@ -46,25 +103,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

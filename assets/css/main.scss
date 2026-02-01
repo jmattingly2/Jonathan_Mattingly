@@ -41,3 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* This targets the name inside the author sidebar specifically */
+.author__content .author__name {
+  font-size: 2.4rem !important; /* Larger size */
+  line-height: 1.1 !important;
+  margin-top: 10px !important;
+  margin-bottom: 5px !important;
+  display: block !important;
+}
+
+/* This targets the name if it is wrapped in an <a> tag link */
+.author__content .author__name a {
+  font-size: 2.4rem !important;
+  text-decoration: none !important;
+}

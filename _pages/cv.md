@@ -20,22 +20,22 @@ Education
 
 Research Experience
 ======
-* __PhD Candidate__, The University of Washington <span style="float:right;">2023 – Present</span><br><br>
+* __PhD Candidate__, The University of Washington <span style="float:right;">2023 – Present</span><br>
 Advisor: Autumn York, PhD<br>
     * Developing probe-based biochemical labeling assays to identify the targets and function of lipid post-translational modifications to proteins in immune cells
     * Using bioinformatic, biochemical, genetic, and molecular biology techniques to identify lipid post-translational modifications critical for the initiation and resolution of inflammatory immune programs
     * Optimization of a new approach for in vivo identification of vascular surveilling cDC1 and NK cells using intravenous delivery of anti-XCR1 and anti-NK1.1 antibodies
-    * Employed in vivo staining and confocal microscopy techniques to identify and live image tumor-cDC1 and tumor-cDC1-NK cell interactions in live lung tissue<br>
+    * Employed in vivo staining and confocal microscopy techniques to identify and live image tumor-cDC1 and tumor-cDC1-NK cell interactions in live lung tissue<br><br>
 
-* __Research Analyst__, The University of Chicago <span style="float:right;">2021 – 2023</span><br><br>
+* __Research Analyst__, The University of Chicago <span style="float:right;">2021 – 2023</span><br>
 Advisor: Albert Bendelac, MD, PhD<br>
   * Designed 30+ color flow cytometry panel to probe for purturbations of immune cell population in an immunoglobulin A (IgA) deficient model
   * Optomized swiss roll tissue preparation and immunofluorescence staining protocol to visualize differences in immune cell composition of the small intestine
   * Cultured and administered aerobic and anaerobic baterial isolates and consortia to identify specific microbes resulting in immune compartment dysbiosis
   * Prepared 16s sequencing to identify bacterial populations
-  * Prepared 10x sequencing to identiy gene expression changes in the immune cells from IgA deficient hosts<br>
+  * Prepared 10x sequencing to identiy gene expression changes in the immune cells from IgA deficient hosts<br><br>
     
-* __Undergraduate Researcher__, The University of Iowa <span style="float:right;">2018 – 2021</span><br><br>
+* __Undergraduate Researcher__, The University of Iowa <span style="float:right;">2018 – 2021</span><br>
 Advisor: Kevin Legge, PhD<br>
   * Purified nucleocapsid protein (NP) from influenza A virus to use in ELISAs to probe for anti-NP antibodies and antigen persistance in a universal influenza vaccine model<br>
   <u>This work resulted in an honors thesis</u>
@@ -62,16 +62,16 @@ __Mattingly JR__. 2021 May “Contribution of Nucleocapsid Protein to Antibody I
 
 Teaching Experience
 ======
-* __Undergraduate Teaching Assistant__, The University of Iowa	<span style="float:right;">2021</span><br><br>
+* __Undergraduate Teaching Assistant__, The University of Iowa	<span style="float:right;">2021</span><br>
   * Lead instruction of 160 students in an introductory Microbiology laboratory course 
-  * Hosted office hours to address student questions
+  * Hosted office hours to address student questions<br><br>
 
-* __College Transition Workshop Leader__, The University of Iowa	<span style="float:right;">2019-2020</span><br><br>
+* __College Transition Workshop Leader__, The University of Iowa	<span style="float:right;">2019-2020</span><br>
   * Facilitated group learning sessions for 20 first-year students in General Chemistry
-  * Designed daily lesson plans and practice questions
+  * Designed daily lesson plans and practice questions<br><br>
 
-* __Biology Lab Intern__, The University of Iowa	<span style="float:right;">2019</span><br><br>
-  * Facilitated introductory Biology course of 24 students
+* __Biology Lab Intern__, The University of Iowa	<span style="float:right;">2019</span><br>
+  * Facilitated introductory Biology course of 24 students<br><br>
 
 Scholarships & Awards
 ======

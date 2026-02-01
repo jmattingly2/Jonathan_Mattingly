@@ -75,31 +75,43 @@ Teaching Experience
 
 Scholarships & Awards
 ======
-* Travel Awardee <span style="float:right;">2025</span><br>
+* __Travel Awardee__ <span style="float:right;">2025</span><br>
   Korean Association of Immunologists (KAI) Conference
 
-* Honorable Mention <span style="float:right;">2025</span><br>
+* __Honorable Mention__ <span style="float:right;">2025</span><br>
   NSF GRFP
 	
-* Old Gold Scholarship <span style="float:right;">2017-2021</span><br>
+* __Old Gold Scholarship__ <span style="float:right;">2017-2021</span><br>
 The University of Iowa, merit-based scholarship
 
-* Invitation <span style="float:right;">2021</span><br>
+* __Invitation__ <span style="float:right;">2021</span><br>
 Phi Beta Kappa Honor Society, The University of Iowa
 
-* President’s List <span style="float:right;">(Spring 2020–Spring 2021, 3 semesters)</span><br>
+* __President’s List__ <span style="float:right;">(Spring 2020–Spring 2021, 3 semesters)</span><br>
 
-* Dean’s List <span style="float:right;">(Fall 2017–Spring 2021, 8 semesters)</span><br> 
+* __Dean’s List__ <span style="float:right;">(Fall 2017–Spring 2021, 8 semesters)</span><br> 
 
-Service and leadership
+Service & Outreach
 ======
-* Currently signed in to 43 different slack teams
+* __Outreach committee member__	<span style="float:right;">2025–Present</span><br>
+Department of Immunology, The University of Washington
 
-Skills
+* __Biochemistry undergraduate reading program (BURP) mentor__ <span style="float:right;">2025</span><br>
+The University of Washington
+
+* __Course Assistant & Lab and Research Committee Member__ 	<span style="float:right;">2025-2025</span><br>
+SoundBio, Seattle, WA	
+
+* __Social Committee Member__ <span style="float:right;">2023-2025</span><br>
+Department of Immunology, The University of Washington
+
+Laboratory Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Advanced Cell culture
+* Confocal microscopy
+* Live-cell imaging
+* Flow cytometry
+  * Panel Design
+  * Analysis
+* Azide-alkyne cycloaddition (Click) assays
+* Immunoprecipitation/Co-immunoprecipitation

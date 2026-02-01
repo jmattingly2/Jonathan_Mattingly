@@ -112,3 +112,46 @@
     display: none !important;
   }
 }
+/* Center all sidebar elements on mobile */
+@media (max-width: 600px) {
+  /* 1. Center the entire container */
+  .sidebar.sticky, .author__content {
+    text-align: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+
+  /* 2. Center the Name and Bio text */
+  .author__name, .author__bio {
+    width: 100% !important;
+    text-align: center !important;
+  }
+
+  /* 3. Center the Photo */
+  .author__avatar img {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* 4. Center the Social Links (LinkedIn, ORCID, etc.) */
+  .author__urls {
+    text-align: center !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    list-style-position: inside !important;
+  }
+
+  .author__urls-wrapper ul {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    padding-left: 0 !important;
+  }
+
+  /* Ensure the individual list items don't lean left */
+  .author__urls li {
+    width: 100% !important;
+    text-align: center !important;
+  }
+}

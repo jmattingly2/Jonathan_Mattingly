@@ -10,20 +10,20 @@ redirect_from:
 
 Education
 ======
-* PhD in Immunology, The University of Washington <span style="float:right;">2029 (expected)</span>
+* __PhD in Immunology__, The University of Washington <span style="float:right;">2029 (expected)</span>
     * GPA: 3.93
-* BS in Microbiology, The University of Iowa <span style="float:right;">2021</span>
-    * with university honors and with highest distinction
-    * with honors in Microbiology
+* __BS in Microbiology__, The University of Iowa <span style="float:right;">2021</span>
+    * With university honors and With highest distinction
+    * With honors in Microbiology
     * Minors: Spanish, Anthropology
     * GPA: 4.02 
 
 Research Experience
 ======
-* PhD Candidate, The University of Washington
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* __PhD Candidate__, The University of Washington <span style="float:right;">2023 – Present</span>
+Advisor: Autumn York, PhD
+  * Developing probe-based biochemical labeling assays to identify the targets and function of lipid post-translational modifications to proteins in immune cells
+  * Using bioinformatic, biochemical, genetic, and molecular biology techniques to identify lipid post-translational modifications critical for the initiation and resolution of inflammatory immune programs
 
 * Fall 2015: Research Assistant
   * GitHub University
